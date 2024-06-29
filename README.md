@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Risa Almeida</h1>
 <h3 align="center">👩‍💻 A Computer Engineering Student 👩‍💻</h3>
 
-<img src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif" width="300" align="right">
-
+<img src="https://media0.giphy.com/media/l1J9N7xy0k775lrkQ/200w.gif?cid=82a1493bb4fv9ybhlnz1abcevvaq082sivml04s5qamzpzo0&ep=v1_gifs_related&rid=200w.gif&ct=g" width="250" align="right">
 
